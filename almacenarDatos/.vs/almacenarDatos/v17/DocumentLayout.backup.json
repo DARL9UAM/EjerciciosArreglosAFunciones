@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD1C3C-8EC6-4B22-B0B1-312071530B8F}|almacenarDatos\\almacenarDatos.csproj|C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\almacenardatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD1C3C-8EC6-4B22-B0B1-312071530B8F}|almacenarDatos\\almacenarDatos.csproj|solutionrelative:almacenardatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAD1C3C-8EC6-4B22-B0B1-312071530B8F}|almacenarDatos\\almacenarDatos.csproj|c:\\users\\usuario\\onedrive\\diego\\metodologia y programaci\u00F3n estructurada\\corte evaluativo 2\\diego rodriguez_segundoacumulativo\\almacenardatos\\almacenardatos\\almacenardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAD1C3C-8EC6-4B22-B0B1-312071530B8F}|almacenarDatos\\almacenarDatos.csproj|solutionrelative:almacenardatos\\almacenardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\almacenarDatos\\Program.cs",
+              "RelativeDocumentMoniker": "almacenarDatos\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\almacenarDatos\\Program.cs",
+              "RelativeToolTip": "almacenarDatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:18:00.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "almacenarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\almacenarDatos\\almacenarDatos.cs",
+              "RelativeDocumentMoniker": "almacenarDatos\\almacenarDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Diego\\Metodologia y programaci\u00F3n estructurada\\Corte evaluativo 2\\Diego Rodriguez_SegundoAcumulativo\\almacenarDatos\\almacenarDatos\\almacenarDatos.cs",
+              "RelativeToolTip": "almacenarDatos\\almacenarDatos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:51:18.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

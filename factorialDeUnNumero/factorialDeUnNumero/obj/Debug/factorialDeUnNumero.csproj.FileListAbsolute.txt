@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.exe.config
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.exe
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.pdb
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.exe
+C:\Users\Usuario\source\repos\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.exe.config
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\bin\Debug\factorialDeUnNumero.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\Corte evaluativo 2\Diego Rodriguez_SegundoAcumulativo\factorialDeUnNumero\factorialDeUnNumero\obj\Debug\factorialDeUnNumero.pdb

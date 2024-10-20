@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\bin\Debug\almacenarDatos.exe.config
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\bin\Debug\almacenarDatos.exe
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\bin\Debug\almacenarDatos.pdb
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\obj\Debug\almacenarDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\obj\Debug\almacenarDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\obj\Debug\almacenarDatos.exe
+C:\Users\Usuario\source\repos\almacenarDatos\almacenarDatos\obj\Debug\almacenarDatos.pdb
