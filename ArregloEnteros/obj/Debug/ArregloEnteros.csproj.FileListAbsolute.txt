@@ -1,0 +1,7 @@
+C:\Users\Erika\source\repos\ArregloEnteros\bin\Debug\ArregloEnteros.exe.config
+C:\Users\Erika\source\repos\ArregloEnteros\bin\Debug\ArregloEnteros.exe
+C:\Users\Erika\source\repos\ArregloEnteros\bin\Debug\ArregloEnteros.pdb
+C:\Users\Erika\source\repos\ArregloEnteros\obj\Debug\ArregloEnteros.csproj.AssemblyReference.cache
+C:\Users\Erika\source\repos\ArregloEnteros\obj\Debug\ArregloEnteros.csproj.CoreCompileInputs.cache
+C:\Users\Erika\source\repos\ArregloEnteros\obj\Debug\ArregloEnteros.exe
+C:\Users\Erika\source\repos\ArregloEnteros\obj\Debug\ArregloEnteros.pdb
