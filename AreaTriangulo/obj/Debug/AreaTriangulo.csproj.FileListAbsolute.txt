@@ -1,0 +1,8 @@
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\labc201\Desktop\Jonatha\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
